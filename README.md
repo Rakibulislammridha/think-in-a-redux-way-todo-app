@@ -1,26 +1,14 @@
 <p align="center">
-    <h3 align="center"><a href="https://learnwithsumit.com/courses/think-in-a-redux-way/setup-react-redux-project">THINK IN A REDUX WAY</a></h3>
+   <h2 align="center"><a href="https://www.facebook.com/profile.php?id=100008277907016">Rakibul Islam</a></h2>
 </p>
 
-<!-- TABLE OF CONTENTS -->
-
-## ![tableOfContent][tableofcontent-shield] Table of Contents
-
-| HTML TEMPLATE                            | CODE RUN                   | CONTACT                    |
-| ---------------------------------------- | -------------------------- | -------------------------- |
-| [Get HTML template](#-get-html-template) | [How to run](#-how-to-run) | [Contact us](#-contact-us) |
-
-<br>
-
-<!-- GET HTML TEMPLATE -->
-
-## ![htmlIcon][htmlicon-shield] Get HTML Template
-
-You can find the raw HTML template of the todo application from the "html_template" folder.
+<p align="center">
+    <h3 align="center"><a href="https://github.com/Rakibulislammridha/think-in-a-redux-way-todo-app.git">THINK IN A REDUX WAY</a></h3>
+</p>
 
 <!-- HOW TO RUN -->
 
-## ![rocketIcon][rocketicon-shield] How to run
+## [How to run..!]
 
 Please follow the below instructions to run this branch in your machine:
 
